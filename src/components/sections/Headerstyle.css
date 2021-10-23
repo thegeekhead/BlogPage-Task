@@ -1,0 +1,12 @@
+header {
+    width: fit-content;
+    height: 100%;
+    /* background-image: url("https://raw.githubusercontent.com/afteracademy/nodejs-backend-architecture-typescript/master/addons/github_assets/cover-nodejs-backend.png"); */
+}
+img {
+    padding: 0;
+    display: block;
+    margin: 50px auto;
+    max-height: 100%;
+    max-width: 100%;
+}
